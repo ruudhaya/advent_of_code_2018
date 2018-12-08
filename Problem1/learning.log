@@ -2,3 +2,5 @@ Open File object
 For loop
 += not available
 int("str") conversion should happen individually
+
+! in the conditions not works for NOT
