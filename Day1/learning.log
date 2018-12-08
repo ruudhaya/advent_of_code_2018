@@ -4,3 +4,6 @@ For loop
 int("str") conversion should happen individually
 
 ! in the conditions not works for NOT
+while loop
+input("...") -> to get integer as input
+
